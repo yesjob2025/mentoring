@@ -1,0 +1,10 @@
+{
+  "name": "MentorConnect",
+  "short_name": "MentorConnect",
+  "description": "현직 전문가와 함께하는 맞춤형 멘토링 플랫폼",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f4ff",
+  "theme_color": "#1a73e8",
+  "icons": []
+}
